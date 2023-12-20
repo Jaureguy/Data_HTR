@@ -1,2 +1,4 @@
 # Data_HTR
- OCR manuscrits français (XVIIIe siècle)
+
+ Données OCR manuscrits français (XVIIIe siècle).
+
