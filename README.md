@@ -9,6 +9,6 @@
 
 
 
-license:
+License:
   type: CC-BY
   version: 4.0
