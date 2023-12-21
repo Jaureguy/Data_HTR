@@ -15,13 +15,6 @@ Surveillance des étrangers, rapports envoyés au Lieutenant de police par ses o
 	<tr><td>Paris</td> <td>Bibliothèque de l'Arsenal</td> <td><a href="https://gallica.bnf.fr/ark:/12148/btv1b107241145/f1.item">Ms-10292</a></td> <td>Echantillon</td> <td>août-décembre 1746</td></tr>
 </table>
 
-<ul>
-	<li><a href="https://gallica.bnf.fr/ark:/12148/btv1b10724224z/f1.item">Ms-10283, années 1725, 1729</a>.</li>
-	<li><a href="https://gallica.bnf.fr/ark:/12148/btv1b107242563/f1.item">Ms-10289, année 1744</a>.</li>
-	<li><a href="https://gallica.bnf.fr/ark:/12148/btv1b107241145/f1.item">Ms-10292, août-décembre 1746</a>.</li>
-</ul>
-
-
 
 # License
   type: CC-BY
