@@ -6,7 +6,7 @@
 
 # Corpus
 
-Surveillance des étrangers, rapports envoyés au Lieutenant de police par ses officiers et agents (Paris, 1725-1746) :
+Surveillance des étrangers, rapports envoyés au Lieutenant de police par ses officiers et agents (Paris, 1725-1746)
 
 <table>
 	<tr><td>Ville</td> <td>Lieu de conservation</td> <td>Cote</td> <td>Folios</td> <td>Date</td></tr>
