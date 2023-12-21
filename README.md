@@ -17,5 +17,5 @@ Surveillance des étrangers, rapports envoyés au Lieutenant de police par ses o
 
 
 # License
-  type: <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY</a>
-  version: 4.0
+  type : <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY</a>
+  version : 4.0
