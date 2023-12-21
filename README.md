@@ -4,7 +4,7 @@
 
  Données OCR manuscrits français (XVIIIe siècle).
 
-# Corpus
+## Corpus
 
 Surveillance des étrangers, rapports envoyés au Lieutenant de police par ses officiers et agents (Paris, 1725-1746)
 
@@ -16,6 +16,6 @@ Surveillance des étrangers, rapports envoyés au Lieutenant de police par ses o
 </table>
 
 
-# License
+## License
   type : <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY</a>
   version : 4.0
