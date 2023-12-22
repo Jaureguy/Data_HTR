@@ -25,13 +25,30 @@
                   WIDTH="7300"
                   HEIGHT="5104">
         
-        <TextBlock HPOS="6263"
-                   VPOS="788"
-                   WIDTH="176"
-                   HEIGHT="81"
-                   ID="eSc_textblock_576a0103"
-                   TAGREFS="BT1653">
-          <Shape><Polygon POINTS="6263 788 6263 869 6439 869 6439 788"/></Shape>
+        <TextBlock HPOS="4037"
+                   VPOS="767"
+                   WIDTH="2450"
+                   HEIGHT="3376"
+                   ID="eSc_textblock_92d489df"
+                   TAGREFS="BT1651">
+          <Shape><Polygon POINTS="4146 767 4037 4103 6385 4143 6487 839 4827 784"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_fff3856a"
+                    TAGREFS="LT635"
+                    BASELINE="4271 884 5066 876 6342 927" 
+                    HPOS="4266"
+                    VPOS="791"
+                    WIDTH="2112"
+                    HEIGHT="174">
+            <Shape><Polygon POINTS="6378 852 6045 837 6040 833 5993 803 5989 803 5985 803 5981 803 5874 825 5623 795 5619 795 5615 795 5568 820 5526 791 5521 791 5517 791 5513 791 5275 808 5130 791 5121 791 5079 791 5036 791 4994 791 4951 791 4943 791 4870 803 4866 803 4858 803 4794 791 4781 791 4739 795 4696 795 4653 795 4611 795 4598 795 4568 795 4526 795 4517 795 4483 795 4441 795 4398 795 4385 795 4356 795 4313 795 4271 795 4271 884 4266 901 4483 918 4488 918 4539 910 4632 897 4666 914 4687 927 4692 927 4696 927 4700 927 4730 918 4781 901 4938 922 4968 927 4973 927 4998 927 5177 910 5334 935 5385 944 5389 944 5419 939 5517 918 5679 948 5717 952 5721 952 5768 948 5968 931 6334 965 6342 927 6334 918 6308 922"/></Shape>
+	    <String CONTENT="Raport des differens endroits ou a eté M. de Loss depuis le 6 aoust 1746"
+                    HPOS="4266"
+                    VPOS="791"
+                    WIDTH="2112"
+                    HEIGHT="174"></String>
+          </TextLine>
+
           
           
           <TextLine ID="eSc_line_ef527078"
@@ -49,16 +66,6 @@
                     HEIGHT="85"></String>
           </TextLine>
 
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="4037"
-                   VPOS="767"
-                   WIDTH="2450"
-                   HEIGHT="3376"
-                   ID="eSc_textblock_92d489df"
-                   TAGREFS="BT1651">
-          <Shape><Polygon POINTS="4146 767 4037 4103 6385 4143 6487 839 4827 784"/></Shape>
           
           
           <TextLine ID="eSc_line_d7cf5e09"
@@ -180,23 +187,6 @@
 
           
           
-          <TextLine ID="eSc_line_f26b06d0"
-                    TAGREFS="LT636"
-                    BASELINE="5774 1628 6439 1621" 
-                    HPOS="5768"
-                    VPOS="1514"
-                    WIDTH="668"
-                    HEIGHT="136">
-            <Shape><Polygon POINTS="5981 1586 5938 1590 5896 1590 5853 1586 5811 1586 5768 1582 5772 1624 5772 1650 6432 1650 6436 1620 6432 1565 6334 1514 6330 1514 6325 1514 6147 1581 6129 1571 6136 1582 6114 1582 6116 1577 6083 1571 6023 1577"/></Shape>
-	    <String CONTENT="+ chez ?? lEnvoyé de Prusse"
-                    HPOS="5768"
-                    VPOS="1514"
-                    WIDTH="668"
-                    HEIGHT="136"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_da4743a4"
                     TAGREFS="LT634"
                     BASELINE="4181 1697 5445 1688 6434 1714" 
@@ -210,6 +200,23 @@
                     VPOS="1599"
                     WIDTH="2259"
                     HEIGHT="132"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f26b06d0"
+                    TAGREFS="LT636"
+                    BASELINE="5774 1628 6439 1621" 
+                    HPOS="5768"
+                    VPOS="1514"
+                    WIDTH="668"
+                    HEIGHT="136">
+            <Shape><Polygon POINTS="5981 1586 5938 1590 5896 1590 5853 1586 5811 1586 5768 1582 5772 1624 5772 1650 6432 1650 6436 1620 6432 1565 6334 1514 6330 1514 6325 1514 6147 1581 6129 1571 6136 1582 6114 1582 6116 1577 6083 1571 6023 1577"/></Shape>
+	    <String CONTENT="+ chez ?? lEnvoyé de Prusse"
+                    HPOS="5768"
+                    VPOS="1514"
+                    WIDTH="668"
+                    HEIGHT="136"></String>
           </TextLine>
 
           
@@ -531,6 +538,16 @@
           
         </TextBlock>
         
+        <TextBlock HPOS="6263"
+                   VPOS="788"
+                   WIDTH="176"
+                   HEIGHT="81"
+                   ID="eSc_textblock_576a0103"
+                   TAGREFS="BT1653">
+          <Shape><Polygon POINTS="6263 788 6263 869 6439 869 6439 788"/></Shape>
+          
+        </TextBlock>
+        
         <TextBlock HPOS="3891"
                    VPOS="1752"
                    WIDTH="226"
@@ -542,27 +559,6 @@
         </TextBlock>
         
 
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
-          
-          <TextLine ID="eSc_line_fff3856a"
-                    TAGREFS="LT635"
-                    BASELINE="4271 884 5066 876 6342 927" 
-                    HPOS="4266"
-                    VPOS="791"
-                    WIDTH="2112"
-                    HEIGHT="174">
-            <Shape><Polygon POINTS="6378 852 6045 837 6040 833 5993 803 5989 803 5985 803 5981 803 5874 825 5623 795 5619 795 5615 795 5568 820 5526 791 5521 791 5517 791 5513 791 5275 808 5130 791 5121 791 5079 791 5036 791 4994 791 4951 791 4943 791 4870 803 4866 803 4858 803 4794 791 4781 791 4739 795 4696 795 4653 795 4611 795 4598 795 4568 795 4526 795 4517 795 4483 795 4441 795 4398 795 4385 795 4356 795 4313 795 4271 795 4271 884 4266 901 4483 918 4488 918 4539 910 4632 897 4666 914 4687 927 4692 927 4696 927 4700 927 4730 918 4781 901 4938 922 4968 927 4973 927 4998 927 5177 910 5334 935 5385 944 5389 944 5419 939 5517 918 5679 948 5717 952 5721 952 5768 948 5968 931 6334 965 6342 927 6334 918 6308 922"/></Shape>
-	    <String CONTENT="Raport des differens endroits ou a eté M. de Loss depuis le 6 aoust 1746"
-                    HPOS="4266"
-                    VPOS="791"
-                    WIDTH="2112"
-                    HEIGHT="174"></String>
-          </TextLine>
-
-          
-        </TextBlock>
         
       </PrintSpace>
     </Page>

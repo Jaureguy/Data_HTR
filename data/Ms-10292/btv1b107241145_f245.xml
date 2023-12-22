@@ -137,13 +137,30 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="6144"
-                   VPOS="911"
-                   WIDTH="160"
-                   HEIGHT="102"
-                   ID="eSc_textblock_3de66bf5"
-                   TAGREFS="BT1653">
-          <Shape><Polygon POINTS="6144 911 6144 1013 6304 1013 6304 911"/></Shape>
+        <TextBlock HPOS="4015"
+                   VPOS="823"
+                   WIDTH="2442"
+                   HEIGHT="3382"
+                   ID="eSc_textblock_fda4fb69"
+                   TAGREFS="BT1651">
+          <Shape><Polygon POINTS="4077 837 4015 4205 6436 4191 6457 830 5158 823"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_1988c1f6"
+                    TAGREFS="LT635"
+                    BASELINE="4131 944 4977 914 6339 897" 
+                    HPOS="4126"
+                    VPOS="816"
+                    WIDTH="2213"
+                    HEIGHT="175">
+            <Shape><Polygon POINTS="5705 816 5701 816 5658 816 5615 816 5573 816 5530 816 5488 816 5462 816 5245 846 4948 825 4943 825 4939 825 4935 825 4905 850 4577 829 4573 829 4318 863 4182 837 4177 837 4173 837 4169 837 4148 846 4126 876 4131 944 4139 991 4165 969 4258 986 4297 991 4301 991 4356 982 4535 956 4624 978 4641 982 4645 982 4650 982 4684 978 4820 948 5437 961 5705 965 5709 965 6024 956 6028 956 6032 956 6032 952 6037 952 6041 948 6054 927 6160 922 6330 939 6339 897 6330 829 6322 825"/></Shape>
+	    <String CONTENT="Raport des differens endroits ou a eté M. le Comte de Loss depuis le 27."
+                    HPOS="4126"
+                    VPOS="816"
+                    WIDTH="2213"
+                    HEIGHT="175"></String>
+          </TextLine>
+
           
           
           <TextLine ID="eSc_line_66bbc32a"
@@ -162,15 +179,22 @@
           </TextLine>
 
           
-        </TextBlock>
-        
-        <TextBlock HPOS="4015"
-                   VPOS="823"
-                   WIDTH="2442"
-                   HEIGHT="3382"
-                   ID="eSc_textblock_fda4fb69"
-                   TAGREFS="BT1651">
-          <Shape><Polygon POINTS="4077 837 4015 4205 6436 4191 6457 830 5158 823"/></Shape>
+          
+          <TextLine ID="eSc_line_3a3dca28"
+                    TAGREFS="LT635"
+                    BASELINE="4118 1067 4535 1059" 
+                    HPOS="4114"
+                    VPOS="978"
+                    WIDTH="421"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="4118 1097 4535 1071 4535 1059 4526 982 4114 978 4118 1067"/></Shape>
+	    <String CONTENT="Aoust 1746"
+                    HPOS="4114"
+                    VPOS="978"
+                    WIDTH="421"
+                    HEIGHT="119"></String>
+          </TextLine>
+
           
           
           <TextLine ID="eSc_line_9cd39b36"
@@ -582,6 +606,16 @@
           
         </TextBlock>
         
+        <TextBlock HPOS="6144"
+                   VPOS="911"
+                   WIDTH="160"
+                   HEIGHT="102"
+                   ID="eSc_textblock_3de66bf5"
+                   TAGREFS="BT1653">
+          <Shape><Polygon POINTS="6144 911 6144 1013 6304 1013 6304 911"/></Shape>
+          
+        </TextBlock>
+        
         <TextBlock HPOS="4708"
                    VPOS="1844"
                    WIDTH="211"
@@ -593,44 +627,6 @@
         </TextBlock>
         
 
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
-          
-          <TextLine ID="eSc_line_1988c1f6"
-                    TAGREFS="LT635"
-                    BASELINE="4131 944 4977 914 6339 897" 
-                    HPOS="4126"
-                    VPOS="816"
-                    WIDTH="2213"
-                    HEIGHT="175">
-            <Shape><Polygon POINTS="5705 816 5701 816 5658 816 5615 816 5573 816 5530 816 5488 816 5462 816 5245 846 4948 825 4943 825 4939 825 4935 825 4905 850 4577 829 4573 829 4318 863 4182 837 4177 837 4173 837 4169 837 4148 846 4126 876 4131 944 4139 991 4165 969 4258 986 4297 991 4301 991 4356 982 4535 956 4624 978 4641 982 4645 982 4650 982 4684 978 4820 948 5437 961 5705 965 5709 965 6024 956 6028 956 6032 956 6032 952 6037 952 6041 948 6054 927 6160 922 6330 939 6339 897 6330 829 6322 825"/></Shape>
-	    <String CONTENT="Raport des differens endroits ou a eté M. le Comte de Loss depuis le 27."
-                    HPOS="4126"
-                    VPOS="816"
-                    WIDTH="2213"
-                    HEIGHT="175"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_3a3dca28"
-                    TAGREFS="LT635"
-                    BASELINE="4118 1067 4535 1059" 
-                    HPOS="4114"
-                    VPOS="978"
-                    WIDTH="421"
-                    HEIGHT="119">
-            <Shape><Polygon POINTS="4118 1097 4535 1071 4535 1059 4526 982 4114 978 4118 1067"/></Shape>
-	    <String CONTENT="Aoust 1746"
-                    HPOS="4114"
-                    VPOS="978"
-                    WIDTH="421"
-                    HEIGHT="119"></String>
-          </TextLine>
-
-          
-        </TextBlock>
         
       </PrintSpace>
     </Page>

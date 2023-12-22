@@ -86,33 +86,6 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="6169"
-                   VPOS="1029"
-                   WIDTH="146"
-                   HEIGHT="95"
-                   ID="eSc_textblock_8ba8060c"
-                   TAGREFS="BT1653">
-          <Shape><Polygon POINTS="6169 1029 6169 1117 6315 1124 6315 1029"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_7515bb90"
-                    TAGREFS="LT634"
-                    BASELINE="6181 1067 6279 1076" 
-                    HPOS="6172"
-                    VPOS="986"
-                    WIDTH="107"
-                    HEIGHT="153">
-            <Shape><Polygon POINTS="6172 1114 6262 1139 6279 1076 6279 986 6181 986 6181 1067"/></Shape>
-	    <String CONTENT="223"
-                    HPOS="6172"
-                    VPOS="986"
-                    WIDTH="107"
-                    HEIGHT="153"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
         <TextBlock HPOS="3840"
                    VPOS="840"
                    WIDTH="343"
@@ -164,6 +137,57 @@
                    ID="eSc_textblock_093f9f0d"
                    TAGREFS="BT1651">
           <Shape><Polygon POINTS="4125 803 3987 4122 6394 4176 6461 879 5240 822"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_18d60968"
+                    TAGREFS="LT635"
+                    BASELINE="4210 913 4244 917 4317 918 6351 978" 
+                    HPOS="4203"
+                    VPOS="810"
+                    WIDTH="2144"
+                    HEIGHT="223">
+            <Shape><Polygon POINTS="4203 944 4258 974 4262 974 4266 974 4271 974 4330 944 4347 939 4445 939 4479 952 4598 986 4602 986 4607 986 4611 986 4696 961 4747 948 4883 969 4938 978 4943 978 4947 978 4960 974 4998 957 5320 961 5326 982 5330 982 5330 986 5334 986 5338 986 5343 986 5347 986 5406 969 5470 995 5475 995 5479 995 5606 974 5683 1008 5708 1016 5713 1016 5908 1020 5913 1020 5917 1020 5921 1020 5925 1016 5947 995 6040 1020 6053 1025 6057 1025 6062 1025 6087 1025 6227 1008 6334 1033 6347 974 6311 856 6036 842 5903 832 5789 817 5712 810 5649 824 5565 831 5524 830 5527 845 5472 830 5408 837 5343 834 5290 837 5245 837 5189 829 5068 837 4916 843 4824 816 4757 831 4680 831 4610 816 4484 820 4248 811 4207 910"/></Shape>
+	    <String CONTENT="Raport des differents endroits ou à eté Mʳ. Lambassadeur d&#39;hollande"
+                    HPOS="4203"
+                    VPOS="810"
+                    WIDTH="2144"
+                    HEIGHT="223"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6b3e7ebe"
+                    TAGREFS="LT635"
+                    BASELINE="4139 1020 5151 1054" 
+                    HPOS="4134"
+                    VPOS="922"
+                    WIDTH="1017"
+                    HEIGHT="200">
+            <Shape><Polygon POINTS="4258 1097 4262 1097 4266 1097 4271 1097 4275 1097 4313 1071 5024 1122 5028 1122 5147 1093 5151 1054 5147 961 4900 982 4373 935 4368 935 4364 935 4266 961 4143 922 4139 1020 4134 1059"/></Shape>
+	    <String CONTENT="depuis le 27. aoust 1746."
+                    HPOS="4134"
+                    VPOS="922"
+                    WIDTH="1017"
+                    HEIGHT="200"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7515bb90"
+                    TAGREFS="LT634"
+                    BASELINE="6181 1067 6279 1076" 
+                    HPOS="6172"
+                    VPOS="986"
+                    WIDTH="107"
+                    HEIGHT="153">
+            <Shape><Polygon POINTS="6172 1114 6262 1139 6279 1076 6279 986 6181 986 6181 1067"/></Shape>
+	    <String CONTENT="223"
+                    HPOS="6172"
+                    VPOS="986"
+                    WIDTH="107"
+                    HEIGHT="153"></String>
+          </TextLine>
+
           
           
           <TextLine ID="eSc_line_1a345d10"
@@ -551,45 +575,17 @@
           
         </TextBlock>
         
-
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
-          
-          <TextLine ID="eSc_line_18d60968"
-                    TAGREFS="LT635"
-                    BASELINE="4210 913 4244 917 4317 918 6351 978" 
-                    HPOS="4203"
-                    VPOS="810"
-                    WIDTH="2144"
-                    HEIGHT="223">
-            <Shape><Polygon POINTS="4203 944 4258 974 4262 974 4266 974 4271 974 4330 944 4347 939 4445 939 4479 952 4598 986 4602 986 4607 986 4611 986 4696 961 4747 948 4883 969 4938 978 4943 978 4947 978 4960 974 4998 957 5320 961 5326 982 5330 982 5330 986 5334 986 5338 986 5343 986 5347 986 5406 969 5470 995 5475 995 5479 995 5606 974 5683 1008 5708 1016 5713 1016 5908 1020 5913 1020 5917 1020 5921 1020 5925 1016 5947 995 6040 1020 6053 1025 6057 1025 6062 1025 6087 1025 6227 1008 6334 1033 6347 974 6311 856 6036 842 5903 832 5789 817 5712 810 5649 824 5565 831 5524 830 5527 845 5472 830 5408 837 5343 834 5290 837 5245 837 5189 829 5068 837 4916 843 4824 816 4757 831 4680 831 4610 816 4484 820 4248 811 4207 910"/></Shape>
-	    <String CONTENT="Raport des differents endroits ou à eté Mʳ. Lambassadeur d&#39;hollande"
-                    HPOS="4203"
-                    VPOS="810"
-                    WIDTH="2144"
-                    HEIGHT="223"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_6b3e7ebe"
-                    TAGREFS="LT635"
-                    BASELINE="4139 1020 5151 1054" 
-                    HPOS="4134"
-                    VPOS="922"
-                    WIDTH="1017"
-                    HEIGHT="200">
-            <Shape><Polygon POINTS="4258 1097 4262 1097 4266 1097 4271 1097 4275 1097 4313 1071 5024 1122 5028 1122 5147 1093 5151 1054 5147 961 4900 982 4373 935 4368 935 4364 935 4266 961 4143 922 4139 1020 4134 1059"/></Shape>
-	    <String CONTENT="depuis le 27. aoust 1746."
-                    HPOS="4134"
-                    VPOS="922"
-                    WIDTH="1017"
-                    HEIGHT="200"></String>
-          </TextLine>
-
+        <TextBlock HPOS="6169"
+                   VPOS="1029"
+                   WIDTH="146"
+                   HEIGHT="95"
+                   ID="eSc_textblock_8ba8060c"
+                   TAGREFS="BT1653">
+          <Shape><Polygon POINTS="6169 1029 6169 1117 6315 1124 6315 1029"/></Shape>
           
         </TextBlock>
+        
+
         
       </PrintSpace>
     </Page>
