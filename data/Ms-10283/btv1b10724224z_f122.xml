@@ -25,33 +25,6 @@
                   WIDTH="8028"
                   HEIGHT="6132">
         
-        <TextBlock HPOS="6687"
-                   VPOS="1423"
-                   WIDTH="271"
-                   HEIGHT="503"
-                   ID="eSc_textblock_b325b717"
-                   TAGREFS="BT1673">
-          <Shape><Polygon POINTS="6791 1423 6687 1926 6958 1653 6958 1423"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_03dec682"
-                    TAGREFS="LT640"
-                    BASELINE="6780 1528 6852 1522 6890 1526 6945 1515" 
-                    HPOS="6760"
-                    VPOS="1410"
-                    WIDTH="199"
-                    HEIGHT="363">
-            <Shape><Polygon POINTS="6862 1425 6811 1425 6806 1410 6760 1415 6776 1527 6806 1773 6959 1686 6944 1512 6913 1425"/></Shape>
-	    <String CONTENT="115"
-                    HPOS="6760"
-                    VPOS="1410"
-                    WIDTH="199"
-                    HEIGHT="363"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
         <TextBlock HPOS="4528"
                    VPOS="1385"
                    WIDTH="2492"
@@ -196,6 +169,23 @@
           </TextLine>
 
           
+          
+          <TextLine ID="eSc_line_e9d4b9a2"
+                    TAGREFS="LT640"
+                    BASELINE="5406 4011 6249 3940" 
+                    HPOS="5386"
+                    VPOS="3714"
+                    WIDTH="868"
+                    HEIGHT="501">
+            <Shape><Polygon POINTS="5421 4215 5534 4174 5580 4200 5585 4205 5590 4205 5595 4205 5600 4205 5605 4205 5631 4195 5697 4164 5835 4174 5922 4179 5927 4179 6254 4128 6244 3939 6224 3750 6178 3714 6173 3714 6167 3714 6162 3714 6157 3714 6152 3714 6152 3720 6086 3781 6065 3801 5968 3812 5937 3796 5886 3755 5881 3755 5876 3755 5871 3755 5866 3755 5815 3776 5759 3750 5753 3750 5748 3750 5743 3750 5738 3750 5682 3791 5585 3760 5580 3760 5575 3760 5570 3760 5564 3760 5462 3847 5457 3852 5386 3852 5401 4006"/></Shape>
+	    <String CONTENT="LH. de Bourbon"
+                    HPOS="5386"
+                    VPOS="3714"
+                    WIDTH="868"
+                    HEIGHT="501"></String>
+          </TextLine>
+
+          
         </TextBlock>
         
         <TextBlock HPOS="4455"
@@ -225,6 +215,33 @@
           
         </TextBlock>
         
+        <TextBlock HPOS="6687"
+                   VPOS="1423"
+                   WIDTH="271"
+                   HEIGHT="503"
+                   ID="eSc_textblock_b325b717"
+                   TAGREFS="BT1673">
+          <Shape><Polygon POINTS="6791 1423 6687 1926 6958 1653 6958 1423"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_03dec682"
+                    TAGREFS="LT640"
+                    BASELINE="6780 1528 6852 1522 6890 1526 6945 1515" 
+                    HPOS="6760"
+                    VPOS="1410"
+                    WIDTH="199"
+                    HEIGHT="363">
+            <Shape><Polygon POINTS="6862 1425 6811 1425 6806 1410 6760 1415 6776 1527 6806 1773 6959 1686 6944 1512 6913 1425"/></Shape>
+	    <String CONTENT="115"
+                    HPOS="6760"
+                    VPOS="1410"
+                    WIDTH="199"
+                    HEIGHT="363"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
         <TextBlock HPOS="5590"
                    VPOS="1826"
                    WIDTH="226"
@@ -236,27 +253,6 @@
         </TextBlock>
         
 
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
-          
-          <TextLine ID="eSc_line_e9d4b9a2"
-                    TAGREFS="LT640"
-                    BASELINE="5406 4011 6249 3940" 
-                    HPOS="5386"
-                    VPOS="3714"
-                    WIDTH="868"
-                    HEIGHT="501">
-            <Shape><Polygon POINTS="5421 4215 5534 4174 5580 4200 5585 4205 5590 4205 5595 4205 5600 4205 5605 4205 5631 4195 5697 4164 5835 4174 5922 4179 5927 4179 6254 4128 6244 3939 6224 3750 6178 3714 6173 3714 6167 3714 6162 3714 6157 3714 6152 3714 6152 3720 6086 3781 6065 3801 5968 3812 5937 3796 5886 3755 5881 3755 5876 3755 5871 3755 5866 3755 5815 3776 5759 3750 5753 3750 5748 3750 5743 3750 5738 3750 5682 3791 5585 3760 5580 3760 5575 3760 5570 3760 5564 3760 5462 3847 5457 3852 5386 3852 5401 4006"/></Shape>
-	    <String CONTENT="LH. de Bourbon"
-                    HPOS="5386"
-                    VPOS="3714"
-                    WIDTH="868"
-                    HEIGHT="501"></String>
-          </TextLine>
-
-          
-        </TextBlock>
         
       </PrintSpace>
     </Page>
