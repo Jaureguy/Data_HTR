@@ -28,9 +28,17 @@ hands:
   count: less-than-11
   precision: estimated
 license:
-  - name: CC-BY 4.0
-    url: https://creativecommons.org/licenses/by/4.0/
+    type: CC-BY
+    version: 4.0
 format: Alto-XML
 volume:
-  - metric: pages
-    count: 60
+- count: 19374
+  metric: characters
+- count: 15
+  metric: files
+- count: 611
+  metric: lines
+- count: 10
+  metric: pages
+- count: 74
+  metric: regions
