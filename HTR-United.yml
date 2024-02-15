@@ -14,39 +14,40 @@ characters:
   members:
   - e
   - a
-  - s
   - r
+  - s
   - n
   - u
-  - i
   - t
+  - i
   - o
   - l
   - d
   - c
   - m
-  - .
   - p
   - h
   - v
   - ́
+  - ^
   - M
   - L
   - "'"
   - q
   - ','
   - y
-  - ʳ
   - f
   - z
+  - .
   - g
   - b
   - C
   - j
   - E
   - D
-  - ᵉ
   - x
+  -  
+  - —
   - '2'
   - S
   - '1'
@@ -64,44 +65,41 @@ characters:
   - '0'
   - '3'
   - '6'
-  - ᵗ
   - '9'
   - A
   - ;
   - V
   - '5'
-  - ᵈ
   - N
   - '8'
   - ':'
   - I
-  - ˢ
   - k
   - ⟦
   - ⟧
-  - ˡ
-  - ᵇ
   - ̧
   - O
-  - '?'
+  - ʳ
   - W
-  - '-'
   - '['
   - ']'
+  - '-'
   - H
   - ̃
+  - ᵗ
   - X
   - F
-  - ⁱ
   - w
   - ¬
   - ̄
   - Q
   - (
   - )
+  - ˢ
   - +
   - K
   - Z
+  - '?'
   mode: NFD
 description: Données OCR manuscrits français (XVIIIe siècle)
 format: Alto-XML
@@ -125,11 +123,11 @@ time:
 title: Bibliothèque de l’Arsenal
 url: https://github.com/Jaureguy/Data_HTR
 volume:
-- count: 53084
+- count: 53367
   metric: characters
 - count: 61
   metric: files
-- count: 1610
+- count: 1611
   metric: lines
 - count: 10
   metric: pages
