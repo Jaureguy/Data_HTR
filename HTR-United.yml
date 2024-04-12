@@ -16,8 +16,8 @@ characters:
   - a
   - r
   - s
-  - n
   - u
+  - n
   - t
   - i
   - l
@@ -25,59 +25,59 @@ characters:
   - d
   - c
   - m
-  - h
   - p
+  - h
   - ́
-  - ^
   - v
+  - ^
   - M
   - L
-  - .
-  - "'"
-  - z
   - q
+  - "'"
+  - y
+  - .
   - ','
   - f
-  - y
+  - z
   - g
   - b
   - C
   - E
   - j
-  - D
   - —
-  - '1'
+  - D
   - x
+  - '1'
+  - J
   - '2'
   - P
-  - J
-  - B
   - S
-  -  
+  - B
   - R
-  - G
   - ̂
+  -  
+  - G
   - '7'
-  - T
   - '4'
-  - '6'
   - ̀
+  - T
   - ̈
+  - '6'
   - '3'
-  - '0'
   - A
   - '5'
-  - '9'
+  - '0'
   - V
-  - ;
+  - '9'
   - N
   - '8'
-  - k
+  - ;
   - I
+  - ̧
   - ':'
+  - k
   - ⟦
   - ⟧
-  - ̧
   - O
   - ʳ
   - W
@@ -86,17 +86,19 @@ characters:
   - Z
   - '-'
   - w
-  - H
+  - Q
   - ̃
-  - ᵗ
   - X
+  - H
+  - ᵗ
   - F
   - (
   - )
   - ¬
   - K
   - ̄
-  - Q
+  - ᵉ
+  - °
   - Y
   - ˢ
   - +
@@ -124,13 +126,13 @@ time:
 title: Bibliothèque de l’Arsenal
 url: https://github.com/Jaureguy/Data_HTR
 volume:
-- count: 70710
+- count: 87036
   metric: characters
-- count: 91
+- count: 116
   metric: files
-- count: 2134
+- count: 2636
   metric: lines
 - count: 10
   metric: pages
-- count: 316
+- count: 386
   metric: regions
